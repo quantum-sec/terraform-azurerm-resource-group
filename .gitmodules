@@ -1,3 +1,0 @@
-[submodule ".package/package-azure"]
-	path = .package/package-azure
-	url = git@github.com:quantum-sec/package-azure.git
